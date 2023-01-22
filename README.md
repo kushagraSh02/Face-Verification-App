@@ -18,3 +18,5 @@ Lbraries Needed:
 Face Dataset URL: http://vis-www.cs.umass.edu/lfw/
 
 Note: we can also use Data augmentation to create more Accurate model for verification.
+
+To run: First run the FaceDetection.ipynb file and create/save the siamesemodel.h5 file then paste the file in app folder to run the app correctly.
